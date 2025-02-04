@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+    "python.analysis.extraPaths": [
+      "libs/agno",
+      "libs/infra/bitca",
+      "libs/infra/bitca_aws"
+  ]
+  }
+}
+
