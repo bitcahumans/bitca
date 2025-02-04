@@ -255,8 +255,6 @@ LangGraph is on the right, **we start it first to give it a head start**.
 
 Bitca is on the left, notice how it finishes before LangGraph gets 1/2 way through the runtime measurement, and hasn't even started the memory measurement. That's how fast Bitca is.
 
-https://github.com/user-attachments/assets/ba466d45-75dd-45ac-917b-0a56c5742e23
-
 Dividing the average time of a Langgraph Agent by the average time of an Bitca Agent:
 
 ```
