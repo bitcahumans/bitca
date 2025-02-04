@@ -6,7 +6,7 @@
 	],
 	"settings": {
     "python.analysis.extraPaths": [
-      "libs/agno",
+      "libs/bitca",
       "libs/infra/bitca",
       "libs/infra/bitca_aws"
   ]
