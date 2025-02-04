@@ -1,9 +1,9 @@
 <div align="center" id="top">
   <a href="https://docs.projectbit.ca">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset=".assets/logo-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset=".assets/logo-light.svg">
-      <img src=".assets/logo-light.svg" alt="Bitca">
+      <source media="(prefers-color-scheme: dark)" srcset=".assets/bitca.png">
+      <source media="(prefers-color-scheme: light)" srcset=".assets/bitca.png">
+      <img src=".assets/bitca.png" alt="Bitca">
     </picture>
   </a>
 </div>
