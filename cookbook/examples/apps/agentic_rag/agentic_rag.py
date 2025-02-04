@@ -21,10 +21,10 @@ Example queries to try:
 - "What other sources support or contradict these claims?"
 
 The agent uses:
-- Vector similarity search for relevant document retrieval
-- Conversation memory for contextual responses
-- Citation tracking for source attribution
-- Dynamic knowledge base updates
+- Vector similarity search for relevant document retrieval.
+- Conversation memory for contextual responses.
+- Citation tracking for source attribution.
+- Dynamic knowledge base updates.
 
 View the README for instructions on how to run the application.
 """
