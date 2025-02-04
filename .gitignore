@@ -12,7 +12,7 @@
 *.cache*
 *.config*
 
-# Machine specific
+# Machine specific?
 .idea
 .vscode
 
