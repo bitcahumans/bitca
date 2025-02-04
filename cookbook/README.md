@@ -50,7 +50,7 @@ source .venv/bin/activate
 ### Install libraries
 
 ```shell
-pip install -U openai agno  # And all other packages you might need
+pip install -U openai bitca  # And all other packages you might need
 ```
 
 ### Export your keys
