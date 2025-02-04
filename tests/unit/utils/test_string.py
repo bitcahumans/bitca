@@ -17,7 +17,7 @@ def test_extract_valid_json_with_nested_json():
 
 def test_extract_valid_json_with_multiple_json_objects():
     content = 'First {"key1": "value1"} Second {"key2": "value2"}'
-    expected_json = {"key1": "value1"}  # Only the first JSON should be returned
+    expected_json = {"key1": "value1"}  # Only the first JSON should be returned!
     extracted_json = extract_valid_json(content)
     assert extracted_json == expected_json
 
