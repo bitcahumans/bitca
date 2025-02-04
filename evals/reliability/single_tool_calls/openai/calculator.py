@@ -1,10 +1,10 @@
 from typing import Optional
 
-from agno.agent import Agent
-from agno.eval.reliability import ReliabilityEval, ReliabilityResult
-from agno.tools.calculator import CalculatorTools
-from agno.models.openai import OpenAIChat
-from agno.run.response import RunResponse
+from bitca.agent import Agent
+from bitca.eval.reliability import ReliabilityEval, ReliabilityResult
+from bitca.tools.calculator import CalculatorTools
+from bitca.models.openai import OpenAIChat
+from bitca.run.response import RunResponse
 
 
 def factorial():
