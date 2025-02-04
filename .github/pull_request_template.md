@@ -36,4 +36,4 @@ Please check the options that are relevant:
 
 ## Additional Notes
 
-Include any deployment notes, performance implications, security considerations, or other relevant information (e.g., screenshots or logs if applicable).
+Include any deployment notes, performance implications, security considerations, or other relevant information (e.g., screenshots, logs if applicable).
