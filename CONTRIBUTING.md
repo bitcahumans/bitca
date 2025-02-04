@@ -1,6 +1,6 @@
 # Contributing to bitca
 
-Bitca is an open-source project and we welcome contributions.
+Bitca is an open-source project and we all welcome contributions.
 
 ## 👩‍💻 How to contribute
 
