@@ -6,7 +6,7 @@ requires-python = ">=3.7,<4"
 readme = "README.md"
 license = { file = "LICENSE" }
 authors = [
-  {name = "Ashpreet Bedi", email = "ashpreet@agno.com"}
+  {name = "Ashpreet Bedi", email = "ashpreet@projectbit.ca"}
 ]
 classifiers = [
     "Development Status :: 5 - Production/Stable",
